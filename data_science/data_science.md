@@ -1,4 +1,4 @@
-# ALl the open source project related to data science are tracked
+# All the open source project related to data science are tracked
 
 ## Optical Character Recognition (OCR)
 
@@ -21,3 +21,11 @@
 * [Grobid](https://github.com/kermitt2/grobid) - GROBID is a machine learning library for extracting, parsing and re-structuring raw documents such as PDF
 * [Camelot](https://github.com/atlanhq/camelot) -  PDF Table Extraction for Humans
 * [Pdfalto](https://github.com/kermitt2/pdfalto) -  Pdfalto is a command line executable for parsing PDF files and producing structured XML representations.
+
+
+## Deep Learning Framework
+
+* [Tensorflow](https://github.com/tensorflow/tensorflow) -  started 2015, maintainer by google.
+* [Keras](https://github.com/keras-team/keras) -  started 2015, Keras is a pretty solid framework to start your deep learning journey.
+* [PyTorch](https://github.com/pytorch/pytorch) -  started 2016, As compared to TensorFlow, PyTorch is more intuitive.
+* [Deeplearning4j](https://github.com/eclipse/deeplearning4j) -  started 2014, Deeplearning4j is a paradise for Java programmers.
