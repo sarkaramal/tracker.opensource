@@ -17,3 +17,6 @@
 * [ADempiere](https://github.com/adempiere/adempiere) - Like most other open source ERP solutions, ADempiere is targeted at small and midsized businesses. 
 * [Apache OFBiz](https://github.com/apache/ofbiz) - Apache OFBiz's suite of related business tools is built on a common architecture that enables organizations to customize the ERP to their needs.
 * [ERPNext](https://github.com/frappe/erpnext) - ERPNext is one of those classic open source projects; in fact, it was featured on Opensource.com way back in 2014.
+
+
+- [BACK](../README.md)

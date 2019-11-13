@@ -17,3 +17,5 @@
 * [Cassandra](hhttps://github.com/apache/cassandra) - An Apache Software Foundation project, Cassandra is a distributed database that allows for decentralized data storage that is fault tolerant and has no single point of failure.
 * [CouchDB](https://github.com/apache/couchdb) - A product of the Apache Software Foundation, CouchDB is another document-oriented database that stores data in JSON format.
 * [Hadoop HBASE ](https://github.com/apache/hbase) - HBase can be easily considered as a scalable, distributed and a big data store.
+
+- [BACK](../README.md)
